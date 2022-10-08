@@ -1,3 +1,3 @@
-export function runCode(arrayA, arrayB) {
+export function combinationSum(array, target) {
   // Tu código aquí 👈
 }
